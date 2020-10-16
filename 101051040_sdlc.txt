@@ -1,1 +1,6 @@
 ----- This file will contain details about important of learning DevOps engineer in software development cycle -----
+
+Sdlc is an acronym for Software development Life Cycle. This involve planning,testing, creating and deploying.
+The this proccess link to each other in a cycle. This is so that the software will be continuouly developed and
+improved. There is several SDLC models such as WaterFall model, iterative model, Spiral model, and Big Bang Model
+ 
