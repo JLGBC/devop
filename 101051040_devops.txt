@@ -1,1 +1,7 @@
 ---- This file will contain information about COMP 3104 DevOps course ---
+
+What I know about DevOps so far is that it involves a lot of software,
+that work together in a paticurlar order. The goal of devops is to compile source code,
+run predefined tests and the deploy the software to the end user. Any subsequent changes to the 
+source code automatically trigger the build procces. it works great with agile methologies which
+are based on the idea of continues user involment and iterations.
