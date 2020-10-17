@@ -5,3 +5,12 @@ that work together in a paticurlar order. The goal of devops is to compile sourc
 run predefined tests and the deploy the software to the end user. Any subsequent changes to the 
 source code automatically trigger the build procces. it works great with agile methologies which
 are based on the idea of continues user involment and iterations.
+
+DevOps Emerged as a result of the surging popularity of agile Development, unfortunately
+agile development put a lot of work onto the developer to the point where system admins 
+had little room to contribute. To solve this problem devOps was concieved to solve this problem
+by two developers called Andrew Clay and Patrick Debois in 2008. 
+
+it quitly caught on and thus allowed each member of the IT department to contribute 
+to the project. this meant that developers can now take part in deployment, 
+admins can write scripts and QA engineers know how to figure out issues other than testing
