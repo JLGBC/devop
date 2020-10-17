@@ -1,3 +1,7 @@
+101051040
+	#### COMP3104 – Developer Operations
+
+---- Rugero (101051040) began working on the assignment
  HEAD
 
 # devop
@@ -13,3 +17,4 @@ I merged my devops repo to this one (I was working on the wrong local repo) -- a
 
  activated Repo for Travis-CI
  devops/master
+ main

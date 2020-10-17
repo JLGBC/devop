@@ -1,0 +1,21 @@
+--- This file will contain information about George Brown college ----
+
+Goerge Brown College is named after George Brown who was one of the fathers of confederation. 
+He also owned the Toronto Globe, which is what the Globe and mail used to be called back in the day.
+George Brown College was established during the formation of Ontario's comunity college system in 1967.
+
+Goerge Brown College has a athletics and sports division called the Goerg Brown Huskies.
+The following are the sports offered by goerge brown.
+
+Badminton - M & W
+Baseball - M
+Basketball - M
+Basketball - W
+Soccer - M
+Soccer - W
+Indoor Soccer - M
+Indoor Soccer - W
+Volleyball - M
+Volleyball - W
+
+for details go to https://athletics.georgebrown.ca/navbar-sports

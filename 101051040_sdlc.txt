@@ -1,0 +1,13 @@
+----- This file will contain details about important of learning DevOps engineer in software development cycle -----
+
+Sdlc is an acronym for Software development Life Cycle. This involve planning,testing, creating and deploying.
+The this proccess link to each other in a cycle. This is so that the software will be continuouly developed and
+improved. There is several SDLC models such as WaterFall model, iterative model, Spiral model, and Big Bang Model
+
+
+according to this webiste https://www.tutorialspoint.com/sdlc/sdlc_bigbang_model.htm
+"The Big Bang Model comprises of focusing all the possible resources in the software development and coding,
+with very little or no planning. The requirements are understood and implemented as they come. 
+Any changes required may or may not need to revamp the complete software."
+
+I am certanly an expert on this model. This pretty much how I have been coding before the capstone project.
