@@ -1,3 +1,0 @@
-Comp 3104 DevOps course is a interactive curretnly online class dedicated learn crucial skills of being a DevOp engineer including using various programs such as git bash and travis.
-Comp 3104 is currently instructed and led by Pritesh Patel.
-
