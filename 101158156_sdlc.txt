@@ -1,3 +1,5 @@
 
 DevOps engineer works with developers and the IT staff to oversee the code release. They play crucial part in scripting and coding and move in the development side where they can improve the planning of test and deployment of the product.
 
+
+In some cases, DevOps engineers take a lead managing the whens, wheres, hows and whos of an IT project, making sure everyone's clear on obejectives, aware of major deadlines, and in regualr contact.
